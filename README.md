@@ -11,4 +11,6 @@ This dashboard created from three main parts including:
 
 ## Sidebar
 The sidebar features five different sorting options, encompassing all categorical variables present in the dataset. This functionality enables users to sort and filter the dataset based on their specific requirements. For example, if you wish to view the income of branch A for female members, you can easily select these criteria from the sidebar, and voilà!
+</br>
+</br>
 <img src="sidebar.png" style="max-width: 340px; text-align:center"/>
