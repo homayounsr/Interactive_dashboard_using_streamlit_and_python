@@ -9,3 +9,5 @@ This dashboard created from three main parts including:
 2) Total KPIs
 3) Charts
 
+## Sidebar
+<img src="sidebar.png" style="max-width: 340px"/>
