@@ -1,6 +1,6 @@
 # Interactive Dashboard with streamlit library
 
-In this project, I have created an interactive dashboard using <a href="https://streamlit.io/"><b>Streamlit</b></a> for a supermarket sales dataset and extracted insights and patterns from it. Streamlit is an open-source Python library that allows developers to build web applications using Python to display plots and outputs in an interactive environment, as opposed to simple static images like those created with Matplotlib or Seaborn. This dashboard offers a user-friendly interface for users to explore the data and gain valuable insights into supermarket sales. I utilized the Plotly Express framework to create interactive plots and visualizations.
+In this project, I have created an interactive dashboard using <a href="https://streamlit.io/" target="_blank"><b>Streamlit</b></a> for a supermarket sales dataset and extracted insights and patterns from it. Streamlit is an open-source Python library that allows developers to build web applications using Python to display plots and outputs in an interactive environment, as opposed to simple static images like those created with Matplotlib or Seaborn. This dashboard offers a user-friendly interface for users to explore the data and gain valuable insights into supermarket sales. I utilized the Plotly Express framework to create interactive plots and visualizations.
 </br>
 </br>
 <img src="dashboard.png" style="max-width: 340px"/>
