@@ -17,11 +17,13 @@ The sidebar features five different sorting options, encompassing all categorica
 
 ## Total KPIs & Charts
 <h2>KPIs</h2>
+<p>In this part of dashboard, total KPIs are visible. These values will dynamically change when you adjust the sorting options in the sidebar.</p>
 <div style="width:100%">
 <div style="width:50%">
   <img src="kpis.png" style="max-width: 100%; text-align:center"/>
 </div>
 <h2>Charts</h2>
+<p>In this section of the dashboard, three charts are visible, displaying total income per hour, total income per product line, and total income per day. These values will dynamically change when you adjust the sorting options in the sidebar.</p>
 <div style="width:50%">
 <img src="charts.png" style="max-width: 100%; text-align:center"/>
 </div>
