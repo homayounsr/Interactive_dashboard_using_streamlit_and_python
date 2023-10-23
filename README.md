@@ -14,3 +14,5 @@ The sidebar features five different sorting options, encompassing all categorica
 </br>
 </br>
 <img src="sidebar.png" style="max-width: 340px; text-align:center"/>
+
+## Total KPIs & Charts
