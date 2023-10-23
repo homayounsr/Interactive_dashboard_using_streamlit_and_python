@@ -10,4 +10,4 @@ This dashboard created from three main parts including:
 3) Charts
 
 ## Sidebar
-<img src="sidebar.png" style="max-width: 340px"/>
+<img src="sidebar.png" style="max-width: 340px; text-alighn:center"/>
